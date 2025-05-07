@@ -1,4 +1,4 @@
-  <p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Joshua Halim Singh Banner"></p>
+  <p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Joshua%20Halim%20Singh%20Banner.jpg" alt="Joshua Halim Singh Banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Joshua Halim</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
