@@ -2,7 +2,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I’m currently studying Management Information System at the University of Surabaya.<br>
+🎓 &nbsp;I’m currently studying Business Information System at the University of Surabaya.<br>
 🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Content Creator as hobbies/side hustles.<br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
