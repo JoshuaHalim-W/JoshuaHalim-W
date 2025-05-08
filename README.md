@@ -38,3 +38,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" alt="Pac-Man" width="200"/>
+</p>
