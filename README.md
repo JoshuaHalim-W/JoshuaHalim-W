@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" alt="Pac-Man eating dots" width="250" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Pac-Man Gameplay" width="300" />
 </p>
 
 
