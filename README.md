@@ -87,6 +87,7 @@
 <td>☕ Pemrograman Berorientasi Objek (OOP)</td>
 <td>🤖 Artificial Intelligence</td>
 </tr>
+<td>🌐 Laravel Web Development</td>
 </table>
 
 <p align="center">
