@@ -89,13 +89,6 @@
 </tr>
 </table>
 
-<h3>⚙️ GitHub Analytics</h3>
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=JoshuaHalim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
