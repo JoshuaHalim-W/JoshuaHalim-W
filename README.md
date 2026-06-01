@@ -6,7 +6,6 @@
 🌱 &nbsp;I’m on track for learning more about Artificial Intelligence and Systems Design.<br>
 ✍️ &nbsp;Content Creator as hobbies/side hustles.<br>
 ✉️ &nbsp;You can shoot me an email at <a href="joshualinkind@gmail.com">joshuahalimwijaya@gmail.com</a>! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
