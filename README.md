@@ -76,18 +76,18 @@
 
 <table>
 <tr>
-<td>📱 Native Mobile Programming</td>
-<td>🚀 Emerging Technology</td>
+<td>📱 Kotlin</td>
+<td>🚀 Flutter</td>
 </tr>
 <tr>
 <td>🗄️ Basis Data</td>
-<td>🌐 Fullstack Programming</td>
+<td>🌐 PHP</td>
 </tr>
 <tr>
-<td>☕ Pemrograman Berorientasi Objek (OOP)</td>
+<td>☕ OOP</td>
 <td>🤖 Artificial Intelligence</td>
 </tr>
-<td>🌐 Laravel Web Development</td>
+<td>🌐 Laravel</td>
 </table>
 
 <p align="center">
